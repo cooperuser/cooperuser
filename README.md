@@ -6,7 +6,7 @@ Pinned:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cooper-anderson&repo=dotfiles)](https://github.com/cooper-anderson/dotfiles)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cooper-anderson&repo=anticipainter)](https://github.com/cooper-anderson/anticipainter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cooper-anderson&repo=glowbeam.vim)](https://github.com/cooper-anderson/glowbeam.vim)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cooper-anderson&repo=sale-waypoint)](https://github.com/cooper-anderson/sale-waypoint)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cooper-csse&repo=sale-waypoint)](https://github.com/cooper-csse/sale-waypoint)
 
 <!--
 **cooper-anderson/cooper-anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
